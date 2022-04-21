@@ -1,0 +1,15 @@
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\NormalizeStrings\bin\Debug\net6.0\NormalizeStrings.exe
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\NormalizeStrings\bin\Debug\net6.0\NormalizeStrings.deps.json
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\NormalizeStrings\bin\Debug\net6.0\NormalizeStrings.runtimeconfig.json
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\NormalizeStrings\bin\Debug\net6.0\NormalizeStrings.dll
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\NormalizeStrings\bin\Debug\net6.0\NormalizeStrings.pdb
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\NormalizeStrings\obj\Debug\net6.0\NormalizeStrings.csproj.AssemblyReference.cache
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\NormalizeStrings\obj\Debug\net6.0\NormalizeStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\NormalizeStrings\obj\Debug\net6.0\NormalizeStrings.AssemblyInfoInputs.cache
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\NormalizeStrings\obj\Debug\net6.0\NormalizeStrings.AssemblyInfo.cs
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\NormalizeStrings\obj\Debug\net6.0\NormalizeStrings.csproj.CoreCompileInputs.cache
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\NormalizeStrings\obj\Debug\net6.0\NormalizeStrings.dll
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\NormalizeStrings\obj\Debug\net6.0\refint\NormalizeStrings.dll
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\NormalizeStrings\obj\Debug\net6.0\NormalizeStrings.pdb
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\NormalizeStrings\obj\Debug\net6.0\NormalizeStrings.genruntimeconfig.cache
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\NormalizeStrings\obj\Debug\net6.0\ref\NormalizeStrings.dll
