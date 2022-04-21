@@ -1,0 +1,15 @@
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\ParseAndSearchString\bin\Debug\net6.0\ParseAndSearchString.exe
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\ParseAndSearchString\bin\Debug\net6.0\ParseAndSearchString.deps.json
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\ParseAndSearchString\bin\Debug\net6.0\ParseAndSearchString.runtimeconfig.json
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\ParseAndSearchString\bin\Debug\net6.0\ParseAndSearchString.dll
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\ParseAndSearchString\bin\Debug\net6.0\ParseAndSearchString.pdb
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\ParseAndSearchString\obj\Debug\net6.0\ParseAndSearchString.csproj.AssemblyReference.cache
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\ParseAndSearchString\obj\Debug\net6.0\ParseAndSearchString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\ParseAndSearchString\obj\Debug\net6.0\ParseAndSearchString.AssemblyInfoInputs.cache
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\ParseAndSearchString\obj\Debug\net6.0\ParseAndSearchString.AssemblyInfo.cs
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\ParseAndSearchString\obj\Debug\net6.0\ParseAndSearchString.csproj.CoreCompileInputs.cache
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\ParseAndSearchString\obj\Debug\net6.0\ParseAndSearchString.dll
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\ParseAndSearchString\obj\Debug\net6.0\refint\ParseAndSearchString.dll
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\ParseAndSearchString\obj\Debug\net6.0\ParseAndSearchString.pdb
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\ParseAndSearchString\obj\Debug\net6.0\ParseAndSearchString.genruntimeconfig.cache
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\String\ParseAndSearchString\obj\Debug\net6.0\ref\ParseAndSearchString.dll
