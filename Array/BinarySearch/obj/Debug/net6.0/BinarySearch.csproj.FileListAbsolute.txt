@@ -1,0 +1,15 @@
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\Array\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.AssemblyReference.cache
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\Array\BinarySearch\obj\Debug\net6.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\Array\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\Array\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfo.cs
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\Array\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\Array\BinarySearch\bin\Debug\net6.0\BinarySearch.exe
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\Array\BinarySearch\bin\Debug\net6.0\BinarySearch.deps.json
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\Array\BinarySearch\bin\Debug\net6.0\BinarySearch.runtimeconfig.json
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\Array\BinarySearch\bin\Debug\net6.0\BinarySearch.dll
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\Array\BinarySearch\bin\Debug\net6.0\BinarySearch.pdb
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\Array\BinarySearch\obj\Debug\net6.0\BinarySearch.dll
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\Array\BinarySearch\obj\Debug\net6.0\refint\BinarySearch.dll
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\Array\BinarySearch\obj\Debug\net6.0\BinarySearch.pdb
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\Array\BinarySearch\obj\Debug\net6.0\BinarySearch.genruntimeconfig.cache
+C:\Users\yoichiozaki\source\repos\algorithms-in-c-sharp\Array\BinarySearch\obj\Debug\net6.0\ref\BinarySearch.dll
